@@ -1,9 +1,3 @@
-""" This file creates a barebones system and executes 'hello', a simple Hello
-World application.
-See Part 1, Chapter 2: Creating a simple configuration script in the
-learning_gem5 book for more information about this script.
-"""
-
 from __future__ import print_function
 
 # import the m5 (gem5) library created when gem5 is built
