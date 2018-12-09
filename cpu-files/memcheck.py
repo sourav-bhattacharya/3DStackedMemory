@@ -1,4 +1,4 @@
-# Copyright (c) 2015-2016 ARM Limited
+# Copyright (c) 2018, National College of Ireland, Dublin, Ireland
 # All rights reserved.
 #
 # The license below extends only to copyright in the software and shall
@@ -9,9 +9,6 @@
 # terms below provided that you ensure that this notice is replicated
 # unmodified and in its entirety in all distributions of the software,
 # modified or unmodified, in source code or in binary form.
-#
-# Copyright (c) 2006-2007 The Regents of The University of Michigan
-# All rights reserved.
 #
 # Redistribution and use in source and binary forms, with or without
 # modification, are permitted provided that the following conditions are
@@ -36,8 +33,7 @@
 # (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 # OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 #
-# Authors: Ron Dreslinski
-#          Andreas Hansson
+# Authors: Sourav Bhattacharya
 
 from __future__ import print_function
 
