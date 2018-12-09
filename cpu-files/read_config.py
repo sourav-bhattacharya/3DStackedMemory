@@ -1,4 +1,4 @@
-# Copyright (c) 2014 ARM Limited
+# Copyright (c) 2018, National College of Ireland, Dublin, Ireland
 # All rights reserved.
 #
 # The license below extends only to copyright in the software and shall
@@ -33,7 +33,7 @@
 # (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 # OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 #
-# Author: Andrew Bardsley
+# Authors: Sourav Bhattacharya
 
 # This script allows .ini and .json system config file generated from a
 # previous gem5 run to be read in and instantiated.
